@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="./finalcolor.png">
+    <img src="./finalcolor-removebg-preview.png">
 </p>
 
 ## <p align=center>Colorkr</p>
