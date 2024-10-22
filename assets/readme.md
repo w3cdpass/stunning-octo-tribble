@@ -11,7 +11,7 @@
 ```js
 import { initColorPicker } from "./colorkr.min.js";
 
-// your id and class 
+// div id and class 
 initColorPicker('your-id')
 
 ```
