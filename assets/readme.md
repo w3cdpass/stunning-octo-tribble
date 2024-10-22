@@ -20,7 +20,7 @@ initColorPicker('your-id')
 
 ```js
 //colorkr.js ln22:col55
-arrow.classList.add('arrow-bottom-center');
+arrow.classList.add('arrow-bottom-center'); // adjust arrow any where by changeing given below strings
 ```
 Customize the arrow 
 ```js
