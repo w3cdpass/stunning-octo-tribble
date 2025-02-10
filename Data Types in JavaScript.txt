@@ -1,0 +1,42 @@
+Data Types in JavaScript
+
+js is dynamically typed language means that it can hold values of any type by without explicity the type 
+
+there are two types of t Data types :-
+
+Primitive DataTypes
+Non-primitive DataTypes
+
+Primitive DataTypes
+:- They can't be changes (immutable) and stored by value
+likes:-
+Number,String,boolean,undefined,null,bigint,symbol,
+
+Non-primitive DataTypes
+
+they can changes and stored by refrence 
+
+like:- 
+objects, array, function, 
+
+
+operators in js 
+
+it is used to perform operation on variables and value.
+
+they are five types
+1.) Artimetic Operators like = +,-,*,%,/,**,++,--,
+
+2.) Assignment Operators like =,+=,-=,*=,/=,%=,
+
+3.) Comparison Operator like ==, ===, !=, !==, > , < , >=, <=, 
+
+4.) Logical Operator like &&, ||, ! 
+
+5.) Ternary Operator if condition is true ? "true" : "false";
+
+6.) Type Operator like typeof, instanceof,
+
+7.) Bitwise Operators like Used to perform operations on binary representations of numbers.
+
+
